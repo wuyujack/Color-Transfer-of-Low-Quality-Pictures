@@ -34,6 +34,19 @@ sudo apt-get install ImageMagick
 in Linux Terminal. This software is used to extracts the alpha channel from the PNG images (your content and style images). The covert code is already included in the `base_model.py` file.
 
 ## Usage
+
+### potential issue
+
+Please make sure your dask is up-to-date and you can use 
+```
+pip install dask --upgrade
+```
+or you may encounter some issue seems like:
+
+```
+AttributeError: module 'pandas.core.computation' has no attribute 'expressions' 
+```
+
 ### Baseline Model 
 To generate the result of baseline model, you can type
 ```
