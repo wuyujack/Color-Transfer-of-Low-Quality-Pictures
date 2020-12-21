@@ -1,6 +1,6 @@
 # Quality Enhancement of Color Transfer of Low Quality Pictures：Pokémon Fusion Example
 
-The working research project aims to improve the images' quality after color transferring in low quality pictures. Two contributors come from Northwestern University, U.S. [@wuyujack](https://github.com/wuyujack) and Tsinghua University
+The working research project aims to improve the images' quality after color transferring in low quality pictures. Two contributors come from Northwestern University, U.S. [@wuyujack](https://wuyujack.github.io/) and Tsinghua University
 [@dedekinds](https://github.com/dedekinds). This project aims to improve the images' quality after color transferring in low quality pictures. You can refer to the `Data` section to learn more about our test images.
 
 ## License
